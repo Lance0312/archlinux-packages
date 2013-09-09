@@ -1,0 +1,3 @@
+[submodule "logwatch-svn"]
+	path = logwatch-svn
+	url = https://github.com/Lance0312/archlinux-logwatch-svn.git
