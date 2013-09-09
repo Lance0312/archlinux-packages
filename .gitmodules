@@ -1,3 +1,6 @@
 [submodule "logwatch-svn"]
 	path = logwatch-svn
 	url = https://github.com/Lance0312/archlinux-logwatch-svn.git
+[submodule "python2-cinderclient"]
+	path = python2-cinderclient
+	url = https://github.com/Lance0312/archlinux-python2-cinderclient.git
