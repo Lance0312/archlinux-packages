@@ -4,3 +4,6 @@
 [submodule "python2-cinderclient"]
 	path = python2-cinderclient
 	url = https://github.com/Lance0312/archlinux-python2-cinderclient.git
+[submodule "nova"]
+	path = nova
+	url = https://github.com/Lance0312/archlinux-nova.git
