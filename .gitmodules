@@ -10,3 +10,6 @@
 [submodule "neutron"]
 	path = neutron
 	url = https://github.com/Lance0312/archlinux-neutron.git
+[submodule "python2-neutronclient"]
+	path = python2-neutronclient
+	url = https://github.com/Lance0312/archlinux-python2-neutronclient.git
