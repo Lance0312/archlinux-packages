@@ -7,3 +7,6 @@
 [submodule "nova"]
 	path = nova
 	url = https://github.com/Lance0312/archlinux-nova.git
+[submodule "neutron"]
+	path = neutron
+	url = https://github.com/Lance0312/archlinux-neutron.git
