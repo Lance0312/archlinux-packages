@@ -16,3 +16,6 @@
 [submodule "keystone"]
 	path = keystone
 	url = https://github.com/Lance0312/archlinux-keystone.git
+[submodule "python2-oslo-sphinx"]
+	path = python2-oslo-sphinx
+	url = https://github.com/Lance0312/archlinux-python2-oslo-sphinx.git
