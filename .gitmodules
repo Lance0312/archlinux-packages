@@ -19,3 +19,6 @@
 [submodule "python2-oslo-sphinx"]
 	path = python2-oslo-sphinx
 	url = https://github.com/Lance0312/archlinux-python2-oslo-sphinx.git
+[submodule "openvswitch"]
+	path = openvswitch
+	url = https://github.com/Lance0312/archlinux-openvswitch.git
