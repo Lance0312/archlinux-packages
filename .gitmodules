@@ -22,3 +22,6 @@
 [submodule "openvswitch"]
 	path = openvswitch
 	url = https://github.com/Lance0312/archlinux-openvswitch.git
+[submodule "nodejs-yuglify"]
+	path = nodejs-yuglify
+	url = https://github.com/Lance0312/archlinux-nodejs-yuglify.git
