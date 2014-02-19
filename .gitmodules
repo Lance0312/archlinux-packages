@@ -25,3 +25,6 @@
 [submodule "nodejs-yuglify"]
 	path = nodejs-yuglify
 	url = https://github.com/Lance0312/archlinux-nodejs-yuglify.git
+[submodule "python2-heatclient"]
+	path = python2-heatclient
+	url = https://github.com/Lance0312/archlinux-python2-heatclient.git
