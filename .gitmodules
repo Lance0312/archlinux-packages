@@ -28,3 +28,6 @@
 [submodule "python2-heatclient"]
 	path = python2-heatclient
 	url = https://github.com/Lance0312/archlinux-python2-heatclient.git
+[submodule "nginx-lua-postgres"]
+	path = nginx-lua-postgres
+	url = https://github.com/Lance0312/archlinux-nginx-lua-postgres.git
