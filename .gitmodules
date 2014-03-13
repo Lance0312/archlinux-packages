@@ -31,3 +31,6 @@
 [submodule "nginx-lua-postgres"]
 	path = nginx-lua-postgres
 	url = https://github.com/Lance0312/archlinux-nginx-lua-postgres.git
+[submodule "python2-ceilometerclient"]
+	path = python2-ceilometerclient
+	url = https://github.com/Lance0312/archlinux-python2-ceilometerclient.git
