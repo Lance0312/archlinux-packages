@@ -34,3 +34,6 @@
 [submodule "python2-ceilometerclient"]
 	path = python2-ceilometerclient
 	url = https://github.com/Lance0312/archlinux-python2-ceilometerclient.git
+[submodule "heat"]
+	path = heat
+	url = https://github.com/Lance0312/archlinux-heat.git
