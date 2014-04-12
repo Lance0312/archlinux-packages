@@ -37,3 +37,9 @@
 [submodule "heat"]
 	path = heat
 	url = https://github.com/Lance0312/archlinux-heat.git
+[submodule "nodejs-livescript"]
+	path = nodejs-livescript
+	url = https://github.com/Lance0312/archlinux-nodejs-livescript.git
+[submodule "nodejs-irccloud-cli"]
+	path = nodejs-irccloud-cli
+	url = https://github.com/Lance0312/archlinux-nodejs-irccloud-cli.git
