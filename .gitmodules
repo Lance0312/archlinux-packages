@@ -52,3 +52,6 @@
 [submodule "python-wheel"]
 	path = python-wheel
 	url = https://github.com/Lance0312/archlinux-python-wheel.git
+[submodule "glance"]
+	path = glance
+	url = https://github.com/Lance0312/archlinux-glance.git
