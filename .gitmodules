@@ -49,3 +49,6 @@
 [submodule "cinder"]
 	path = cinder
 	url = https://github.com/Lance0312/archlinux-cinder.git
+[submodule "python-wheel"]
+	path = python-wheel
+	url = https://github.com/Lance0312/archlinux-python-wheel.git
