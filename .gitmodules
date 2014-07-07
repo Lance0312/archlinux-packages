@@ -19,9 +19,6 @@
 [submodule "python-oslosphinx"]
 	path = python-oslosphinx
 	url = https://github.com/Lance0312/archlinux-python-oslosphinx.git
-[submodule "openvswitch"]
-	path = openvswitch
-	url = https://github.com/Lance0312/archlinux-openvswitch.git
 [submodule "nodejs-yuglify"]
 	path = nodejs-yuglify
 	url = https://github.com/Lance0312/archlinux-nodejs-yuglify.git
@@ -40,9 +37,6 @@
 [submodule "nodejs-livescript"]
 	path = nodejs-livescript
 	url = https://github.com/Lance0312/archlinux-nodejs-livescript.git
-[submodule "nodejs-irccloud-cli"]
-	path = nodejs-irccloud-cli
-	url = https://github.com/Lance0312/archlinux-nodejs-irccloud-cli.git
 [submodule "ceilometer"]
 	path = ceilometer
 	url = https://github.com/Lance0312/archlinux-ceilometer.git
