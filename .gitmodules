@@ -46,3 +46,6 @@
 [submodule "ceilometer"]
 	path = ceilometer
 	url = https://github.com/Lance0312/archlinux-ceilometer.git
+[submodule "cinder"]
+	path = cinder
+	url = https://github.com/Lance0312/archlinux-cinder.git
